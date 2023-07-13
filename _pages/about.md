@@ -18,4 +18,5 @@ I am an amateur marathon enthusiast. I have been jogging since 2016 and particip
 
 For more infomation
 ------
-More information of mine, you could see the detail or contact me via [LinkedIn](https://www.linkedin.com/in/shixuanlin.
+More information of mine, you could see the detail or contact me via [LinkedIn](https://www.linkedin.com/in/shixuanlin.www.linkedin.com/in/)
+or via [Email](shixuanlin@nyu.edu)
