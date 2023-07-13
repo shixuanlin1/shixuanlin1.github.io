@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! This is Ryan's home on the web! Welcome!
 
-Currently, I am a master student at New York University(NYU). My research interests lie in time series, machine learning, exchange rate forecasting, etc. My professional interests lie in industry research, consulting.
+Currently, I am a master student at New York University (NYU). My research interests lie in time series, machine learning, exchange rate forecasting, etc. My professional interests lie in industry research, consulting.
 
 Personal Hobbies
 ------
