@@ -16,17 +16,14 @@ Education
 
 Work experience
 ======
-* May 2022 – Jun. 2022: Consulting Intern
-  * Shanghai Longyi Enterprise Management Group
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  * • Analyzed the sugar-free food and beverage industry in China, collected and summarized prospectuses of key entities
+* Shanghai Longyi Enterprise Management Group  2022 – Jun. 2022: Consulting Intern
+  * Analyzed the sugar-free food and beverage industry in China, collected and summarized prospectuses of key entities
 in the industry.
-  * • Estimated and forecast the size of the sugar-free market in China with the secondary information from open sources
+  * Estimated and forecast the size of the sugar-free market in China with the secondary information from open sources
 such as Huibo Research Reports Database.
-  * • Investigated the consumer demand and preference for the sugar-free food and beverage, the trend of R&D of raw
+  * Investigated the consumer demand and preference for the sugar-free food and beverage, the trend of R&D of raw
 materials, and the policy dynamics in the industry to conduct the market analysis and supply chain evaluation.
-  * • Supported the team in formulating an industry research report with 9930 words.
+  * Supported the team in formulating an industry research report with 9930 words.
 
 * Fall 2015: Research Assistant
   * Github University
