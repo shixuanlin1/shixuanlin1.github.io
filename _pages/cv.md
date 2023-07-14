@@ -16,7 +16,8 @@ Education
 
 Exchange Experience
  =====
- * Hongkong and Macau Ten Thousand Student Interflow Programme(Ministry of Education of the People’s Republic of China), Sep. 2022 - Dec. 2022
+ * Hongkong and Macau Ten Thousand Student Interflow Programme, Sep. 2022 - Dec. 2022
+ * (Ministry of Education of the People’s Republic of China)
  * Relevant Coursework: Introduction to Python, Econometrics
 
 Work experience
