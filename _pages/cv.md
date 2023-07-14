@@ -22,7 +22,7 @@ Exchange Experience
 
 Work experience
 ======
-* Shanghai Longyi Enterprise Management Group  2022 – Jun. 2022: Consulting Intern
+* Shanghai Longyi Enterprise Management Group, May 2022 – Jun. 2022: Consulting Intern
   * Analyzed the sugar-free food and beverage industry in China, collected and summarized prospectuses of key entities
 in the industry.
   * Estimated and forecast the size of the sugar-free market in China with the secondary information from open sources
@@ -31,10 +31,11 @@ such as Huibo Research Reports Database.
 materials, and the policy dynamics in the industry to conduct the market analysis and supply chain evaluation.
   * Supported the team in formulating an industry research report with 9930 words.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Huaxia Bank Qingdao Branch, Jul. 2021 – Aug. 2021
+* Key Institutions business Dept. Intern
+  * Learned and gained an in-depth understanding of the bank’s business, sorted out the bonds issued by the branch to banks all over Qingdao, and formed an analytical report.
+  * Entered the unaudited financial data of three key institutions during H1 2021 for further financial analysis.
+  * Organize corporate documents, create file catalogs, and assist in completing meeting minutes and documents required for work reports.
   
 Skills
 ======
