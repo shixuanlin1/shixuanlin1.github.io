@@ -21,7 +21,7 @@ Exchange Experience
    * Ministry of Education of the People’s Republic of China
    * Relevant Coursework: Introduction to Python, Econometrics
 
-Work experience
+Work Experience
 ======
 * Shanghai Longyi Enterprise Management Group, May 2022 – Jun. 2022, Consulting Intern
   * Analyzed the sugar-free food and beverage industry in China, collected and summarized prospectuses of key entities
