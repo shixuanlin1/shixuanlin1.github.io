@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * B.B.A. in Finance, Macau University of Science and Technology, Sep. 2019 - Jun. 2023
+   * Thesis: Forecasting the term structure of interest rates with dynamic SV models
 * M.S. in Management and Systems, New York University, Sep. 2023 - Jun. 2025 (Expected)
 
 Exchange Experience
