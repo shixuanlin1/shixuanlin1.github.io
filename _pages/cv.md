@@ -37,14 +37,13 @@ materials, and the policy dynamics in the industry to conduct the market analysi
   * Entered the unaudited financial data of three key institutions during H1 2021 for further financial analysis.
   * Organize corporate documents, create file catalogs, and assist in completing meeting minutes and documents required for work reports.
   
-Skills
+Technical Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages: Python, Matlab, MySQL, HTML/CSS, R, Latex, Markdown
+* Frameworks:WordPress, Material-UI
+* Developer Tools: VS Code, Visual Studio, PyCharm
+* Libraries: Pandas, NumPy, Matplotlib
+* Software Tools: Stata, E-views, SPSS, Wind, Bloomberg, Huibo Database, AutoCAD, Ecwid, XIUMI, M.S. Office
 
 Publications
 ======
