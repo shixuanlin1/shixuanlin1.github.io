@@ -51,18 +51,14 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Social Service Learning, Sep. 2021 – Jan. 2022
+  * Led and managed community service initiatives in Macao, targeting the needs of intellectually disabled individuals. Developed and implemented comprehensive project plans, coordinated volunteer teams, and successfully resolved issues to ensure timely completion. Recognized for exceptional leadership and project management skills, including the ability to inspire and motivate team members, delegate responsibilities effectively, and adapt to changing circumstances.
+  * Contributed to a Christian mountain climbing project, demonstrating cultural sensitivity to diverse participants. Established detailed plans, collaborated with team members, and successfully resolved issues to ensure timely project completion. Demonstrated strong leadership and project management abilities, including effective communication, creative problem-solving, and prioritization of tasks to achieve project goals.
+  * Demonstrated a deep sense of social responsibility through service learning and volunteer activities with the Macao Association of People with Intellectual Disabilities. As project lead, developed detailed plans, clearly defined tasks, and effectively communicated with team members for successful project completion. Recognized for exceptional leadership and project management skills, including the ability to motivate and inspire team members, facilitate collaboration and communication, and maintain a positive and productive team dynamic.
+
+* MUST Social Practice Club (SPC), Sep. 2020 – Feb. 2022
+  * Operated the WeChat official account of the club, including article writing, typesetting, and editing, with 3,000+
+page views and 400+ subscription in total.
+  * Supported the club president to hold internal meetings and activities.
