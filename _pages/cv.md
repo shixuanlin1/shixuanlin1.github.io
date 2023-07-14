@@ -16,7 +16,7 @@ Education
 * M.S. in Management and Systems, New York University, Sep. 2023 - Jun. 2025 (Expected)
 
 Exchange Experience
- =====
+======
  * Hongkong and Macau Ten Thousand Student Interflow Programme, Sep. 2022 - Dec. 2022
    * Ministry of Education of the People’s Republic of China
    * Relevant Coursework: Introduction to Python, Econometrics
