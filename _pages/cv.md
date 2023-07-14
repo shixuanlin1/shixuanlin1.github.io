@@ -31,7 +31,7 @@ such as Huibo Research Reports Database.
 materials, and the policy dynamics in the industry to conduct the market analysis and supply chain evaluation.
   * Supported the team in formulating an industry research report with 9930 words.
 
-* Huaxia Bank Qingdao Branch, Jul. 2021 – Aug. 2021, Key Institutions business Dept. Intern
+* Huaxia Bank Qingdao Branch, Jul. 2021 – Aug. 2021, Key Institutions Business Dept. Intern
   * Learned and gained an in-depth understanding of the bank’s business, sorted out the bonds issued by the branch to banks all over Qingdao, and formed an analytical report.
   * Entered the unaudited financial data of three key institutions during H1 2021 for further financial analysis.
   * Organize corporate documents, create file catalogs, and assist in completing meeting minutes and documents required for work reports.
