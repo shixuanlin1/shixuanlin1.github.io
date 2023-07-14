@@ -14,7 +14,7 @@ Education
 * B.B.A. in Finance, Macau University of Science and Technology, Sep. 2019 - Jun. 2023
 * M.S. in Management and Systems, New York University, Sep. 2023 - Jun. 2025 (Expected)
 
-###Exchange Experience
+Exchange Experience
  =====
  * Hongkong and Macau Ten Thousand Student Interflow Programme(Ministry of Education of the People’s Republic of China), Sep. 2022 - Dec. 2022
  * Relevant Coursework: Introduction to Python, Econometrics
