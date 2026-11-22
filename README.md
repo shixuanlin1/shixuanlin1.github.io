@@ -11,6 +11,7 @@ I hold a master's degree in Management and Systems from New York University, wit
 | Project | What I worked on | Explore |
 | --- | --- | --- |
 | Media narrative analysis | Document ingestion, analytical workflow integration, structured outputs, and a Streamlit interface for reviewing news content | [Code and setup](https://github.com/shixuanlin1/unicc) |
+| AI safety testing framework and prototype | Governance-to-test mapping, agent test workflows, risk evidence, and a six-step review interface | [Case study](projects/ai-safety-testing.md) |
 | HHY enterprise platform and WeChat Mini Program | Business workflows, information architecture, role-aware interaction, and continuity between customer requests and staff follow-up | [Case study](projects/hhy-enterprise-and-miniapp.md) |
 | FabricChain Intelligence | Structured fabric requirements, multimodal retrieval, business-fact checks, and explicit human confirmation | [Case study](projects/fabricchain.md) |
 | Tool-using agent evaluation | Research design for authorization boundaries, confirmation behavior, and the difference between task success and safe execution | [Research notes](projects/agent-safety.md) |
