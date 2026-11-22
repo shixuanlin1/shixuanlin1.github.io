@@ -1,44 +1,9 @@
-# AI safety testing framework and prototype
+# UNICC AI safety testing
 
-2025 / UNICC AI safety testing project
+I worked on the test workflow and reporting interface for this 2025 project. An evaluator picks the checks to run, reviews the results from each test and uses the report to decide what needs a fix or another run.
 
-## The business problem
+![Test configuration screen from the December 2025 project presentation](../assets/safety-input.png)
 
-A safety framework becomes useful when someone can configure the evaluation, run the relevant checks and inspect the evidence behind the next action.
+One detail mattered for interpreting results. If the environment check fails, the prototype stops and explains why. A reviewer can tell whether a model failed a test or the test never ran. For completed runs, the report keeps the logs alongside the findings.
 
-## My development work
-
-I worked on framework design, the translation of governance requirements into test modules, scoring and reporting workflows, and prototype integration. The interface connects configuration, test selection, environment setup, execution, results and report review.
-
-## Design and business decisions
-
-### Validate before execution
-
-The documented pipeline checks the configuration and API, prepares the selected scenarios and terminates with an explanation if the environment check fails.
-
-### Keep module results traceable
-
-Individual test modules produce results before risk evidence is aggregated. The report retains logs, risk descriptions and follow-up recommendations.
-
-### Make follow-up explicit
-
-The prototype distinguishes monitoring, optimization and retesting, and remediation. Its historical dashboard values illustrate the interface; they are not presented as benchmark results.
-
-## System and interface
-
-![Six-step agent safety testing interface at the configuration stage](../assets/safety-input.png)
-
-Original configuration interface from the December 2025 project presentation.
-
-![Configuration, environment validation, module execution and reporting with failure and risk follow-up branches](../assets/portfolio-safety-system.svg)
-
-Evaluation flow redrawn from slides 12-13 of the original presentation. The linked resources retain their original project attributions.
-
-## Project resources
-
-- [Online portfolio](https://shixuanlin.com/portfolio#safety)
-- [Full project record](https://shixuanlin.com/projects/ai-safety-testing-framework)
-- [Open the framework project resource](https://github.com/Chen1212123/UNICC-AI-Safety-Testing-Framework)
-- [20-page selected-work portfolio](../portfolio/Shixuan_Lin_Portfolio.pdf)
-
-[Back to overview](../README.md)
+[Project repository](https://github.com/Chen1212123/UNICC-AI-Safety-Testing-Framework) · [Evaluation flow](../assets/portfolio-safety-system.svg) · [Full case](https://shixuanlin.com/projects/ai-safety-testing-framework)

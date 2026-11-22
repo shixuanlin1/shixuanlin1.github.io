@@ -1,7 +1,5 @@
 # Tool-using agent safety
 
-I am pursuing ongoing research on safety evaluation for tool-using language-model agents. My public materials currently introduce the topic and its relationship to my applied systems work.
+My research question is how a reviewer can tell whether an agent took an appropriate action when it used a tool. I'm exploring how the record of a run can help someone decide when to intervene.
 
-My broader interest is how people can evaluate the reliability of AI-assisted decisions and translate that evaluation into usable operational controls.
-
-[Research context](https://shixuanlin.com/research) · [Back to selected work](../README.md)
+[Research notes](https://shixuanlin.com/research) · [2025 UNICC testing prototype](ai-safety-testing.md)
