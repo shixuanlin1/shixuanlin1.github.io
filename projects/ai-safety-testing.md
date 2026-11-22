@@ -8,4 +8,4 @@ One detail mattered for interpreting results. If the environment check fails, th
 
 I designed the reporting workflow around the decision after a run. Low-risk findings go into routine monitoring. A medium-risk finding calls for a change and another test before release. A high-risk finding blocks release pending remediation. The proposed PDF and HTML reports carry the test logs and risk descriptions so the person making that call can inspect the evidence.
 
-[Project repository](https://github.com/Chen1212123/UNICC-AI-Safety-Testing-Framework) · [Evaluation flow](../assets/portfolio-safety-system.svg) · [Full case](https://shixuanlin.com/projects/ai-safety-testing-framework)
+[Project repository](https://github.com/shixuanlin1/unicc-ai-safety-testing) · [Evaluation flow](../assets/portfolio-safety-system.svg) · [Full case](https://shixuanlin.com/projects/ai-safety-testing-framework)
