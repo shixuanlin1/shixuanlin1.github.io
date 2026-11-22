@@ -7,4 +7,6 @@ I build software for the fabric trade. At Honghuayuan, I designed how sales, pro
 - [UNICC media analysis](projects/media-analysis.md) — a Streamlit app that flags potentially xenophobic language and explains each flag. [Code](https://github.com/shixuanlin1/unicc)
 - [UNICC AI safety testing](projects/ai-safety-testing.md) — a prototype for running checks and reviewing results before deciding what to retest.
 
-[Website](https://shixuanlin.com/) · [Portfolio PDF](portfolio/Shixuan_Lin_Portfolio.pdf) · [Publications](publications.md)
+I studied finance at Macau University of Science and Technology and earned my MS in Management and Systems at NYU. My [published work](publications.md) covers harmful narratives in news and carbon emissions in Macau.
+
+[Website](https://shixuanlin.com/) · [Portfolio PDF](portfolio/Shixuan_Lin_Portfolio.pdf)
