@@ -6,6 +6,7 @@ I build software for the fabric trade. At Honghuayuan, I designed how sales, pro
 - [FabricChain](projects/fabricchain.md) — a prototype for finding fabrics that meet a buyer's specifications.
 - [UNICC media analysis](projects/media-analysis.md) — a Streamlit app that flags potentially xenophobic language and explains each flag. [Code](https://github.com/shixuanlin1/unicc)
 - [UNICC AI safety testing](projects/ai-safety-testing.md) — a prototype for running checks and reviewing results before deciding what to retest.
+- [Greenworks market positioning](projects/greenworks.md) — a nine-brand comparison for an NYU client project, and what overlapping price bands can tell a dealer.
 
 I studied finance at Macau University of Science and Technology and earned my MS in Management and Systems at NYU. My [published work](publications.md) covers harmful narratives in news and carbon emissions in Macau.
 

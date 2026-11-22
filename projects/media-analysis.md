@@ -8,4 +8,4 @@ In the public Streamlit app, I also set a minimum for what appears on screen. A 
 
 ![Narrative Guardian chatbot from the original NYU project report](../assets/media-chatbot.png)
 
-[Streamlit code and setup](https://github.com/shixuanlin1/unicc) · [Co-authored IEEE paper](https://doi.org/10.1109/ISEC64801.2025.11147198) · [Full project](https://shixuanlin.com/projects/multilingual-content-safety-analysis)
+[Two sample responses, no API key](https://github.com/shixuanlin1/unicc#two-sample-responses) · [Streamlit code and setup](https://github.com/shixuanlin1/unicc) · [Co-authored IEEE paper](https://doi.org/10.1109/ISEC64801.2025.11147198) · [Full project](https://shixuanlin.com/projects/multilingual-content-safety-analysis)
