@@ -1,57 +1,68 @@
-# HHY enterprise platform and WeChat Mini Program
+# HHY enterprise digitalization
 
-## The problem
+2025-Present / Honghuayuan Fabric / Enterprise digitalization
 
-A fabric inquiry can involve a customer, sales staff, sample preparation, pricing, inventory, and subsequent follow-up. A usable customer screen is only one part of that service: staff also need to know which product and request are involved, who may act, and which result has actually been confirmed.
+## The business problem
 
-I worked on business requirements, information architecture, interface design, and AI-assisted implementation for an enterprise platform and its WeChat Mini Program. My technical work involved Vue 3, TypeScript, uni-app, Node.js/Fastify, and PostgreSQL/Prisma.
+I constructed an enterprise operating framework connecting customer commitments, fulfillment and financial control, then translated it into business rules, shared data objects, decision rights and digital workflows.
 
-## Design decisions
+## My development work
 
-### Browsing and business authority
+My work connects business requirements and rules, enterprise information architecture, customer and staff interfaces, backend integration and AI-assisted implementation. The management system and Mini Program are different views of the same operating model.
 
-I separated product exploration from actions that require an identified account or enterprise authorization. Providing contact details, saving selected products, and obtaining permission to act for a company are different operations. The interaction should make each transition deliberate.
+## Design and business decisions
 
-### Saving a selection
+### Organize capabilities around the business cycle
 
-For account linking, I used a sequence of selecting items, reviewing differences, explicitly saving, and inspecting the result. Product identifiers, quantities, units, and notes remain visible when two versions differ. Existing account content is not silently overwritten.
+I connect the commercial cycle, fulfillment and financial control. Customer, staff and management views use shared product, transaction, work and audit references.
 
-### Recovering an uncertain operation
+### Give data identity a business meaning
 
-If a submission loses its response, the interface should help recover the original operation before attempting another write. I worked on keeping recovery associated with the original visit and request so that an unresolved action in one context cannot become a success message in another.
+A tradable product, specification revision, batch, dye lot and physical roll represent different objects. Accepted terms and subsequent changes retain the applicable version.
 
-### Coordinating the next action
+### Separate decision rights
 
-Customer-facing progress and staff-facing responsibility need a shared business reference. I worked on distinguishing a request from an issued quotation, sample preparation from dispatch, and an offered handover from an accepted responsibility.
+Pricing and economic exceptions, production feasibility, financial verification and physical execution belong to different responsibilities. Technical administration does not automatically confer business-approval authority.
 
-## Service flow
+### Control the customer commitment
 
-```mermaid
-flowchart LR
-    A[Explore fabrics] --> B[Select products and specify needs]
-    B --> C[Review the request and identity context]
-    C --> D[Explicitly submit or save]
-    D --> E{Confirmed result?}
-    E -->|Yes| F[Show result and responsible next action]
-    E -->|Unknown| G[Recover the original operation]
-    G --> E
-```
+Quotation, order confirmation, production, shipment, receivable and receipt have different meanings. Each transition needs the relevant facts, authority and evidence.
 
-## Verification and evidence
+### Model commercial edge cases
 
-<p>
-  <img src="../assets/selection.png" width="280" alt="Historical local H5 screen for selecting fabric items to save to an account">
-  <img src="../assets/unknown.png" width="280" alt="Historical local H5 screen requiring recovery of an uncertain visit submission">
-</p>
+I distinguish commercial quantity thresholds from technical production floors, retain the economic effect of committed work during changes, recheck the conditions behind partial quotation acceptance, and verify real capacity before a delivery promise.
 
-Historical local H5 screenshots from October 2026, using synthetic records. The first shows deliberate item selection; the second keeps an uncertain submission associated with its original visit.
+### Balance control with operating cost
 
-Historical local development records from October 2026 document tests of account linking, visit isolation, authorization changes, versioned drafts, and recovery after a lost response. Those records describe selected development environments and synthetic test data. They do not by themselves establish the current production state or native-device acceptance of the complete product.
+Authorized staff can execute approved terms directly. Meaningful commercial exceptions escalate. Drafts can remain incomplete until an action actually requires the missing information.
 
-The public [admin repository](https://github.com/shixuanlin1/hhy-fabric-admin) is an earlier template-based snapshot. It should be read with its upstream attribution and does not represent the full current enterprise backend. The [Mini Program repository](https://github.com/shixuanlin1/miniprogramforcompanydemo) is the intended public case-study entry point.
+### Evaluate the complete service
 
-## What I want to investigate next
+Removing an early registration barrier for overseas buyers improved access but shifted verification work to staff. I therefore consider customer completion, staff checking, repeated data entry, correction effort and recovery together.
 
-I want to evaluate whether a simpler customer journey reduces total service effort, including staff verification and exception handling. A useful study would compare completion time, correction work, successful recovery, and responsibility clarity across the entire service rather than count front-end clicks alone.
+### Define the management view before the dashboard
 
-[Back to profile](../README.md)
+Demand and commitments, fulfillment and constraints, and cash and exposure form linked management views. Indicators should lead back to the underlying event and an accountable next action.
+
+## System and interface
+
+![HHY Fabrics English product home in the WeChat Mini Program](../assets/hhy-home.png)
+
+Product home. Local H5 development capture, November 2026.
+
+![Uncertain submission recovery asking the person to check the original visit](../assets/unknown.png)
+
+Recovery state. Historical local H5, October 2026, using synthetic records.
+
+![Enterprise capability map linking customer and commercial work, fulfillment, finance and management through shared identities, product data, transaction versions, permissions and audit](../assets/portfolio-enterprise-capabilities.svg)
+
+Enterprise capability model redrawn from operating rules and system records: commercial work, fulfillment, finance and management share the same business foundation.
+
+## Project resources
+
+- [Online portfolio](https://shixuanlin.com/portfolio#hhy)
+- [Full project record](https://shixuanlin.com/projects/b2b-digital-operations-platform)
+- [Open the Mini Program project record](https://github.com/shixuanlin1/miniprogramforcompanydemo)
+- [20-page selected-work portfolio](../portfolio/Shixuan_Lin_Portfolio.pdf)
+
+[Back to overview](../README.md)

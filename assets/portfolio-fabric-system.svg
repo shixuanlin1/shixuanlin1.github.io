@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="1100" height="400" preserveAspectRatio="xMinYMin meet" viewBox="0 0 1100 400" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="1100" height="400"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-400)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="234" width="204" height="126" rx="3" ry="3" style="stroke: rgb(80%,82%,85%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="15" y="338" style="font-family: Helvetica; font-size: 10px;fill: rgb(15%,40%,90%); stroke:none;" transform="translate(0,676) scale(1,-1)">01 / INPUT</text>
+			<text x="15" y="313" style="font-family: Helvetica-Bold; font-size: 16px;fill: rgb(7%,10%,13%); stroke:none;" transform="translate(0,626) scale(1,-1)">Describe the fabric</text>
+			<text x="15" y="287" style="font-family: Helvetica; font-size: 12px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,574) scale(1,-1)">Text + structured fields</text>
+			<rect x="224" y="234" width="204" height="126" rx="3" ry="3" style="stroke: rgb(80%,82%,85%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="239" y="338" style="font-family: Helvetica; font-size: 10px;fill: rgb(15%,40%,90%); stroke:none;" transform="translate(0,676) scale(1,-1)">02 / CLARIFY</text>
+			<text x="239" y="313" style="font-family: Helvetica-Bold; font-size: 16px;fill: rgb(7%,10%,13%); stroke:none;" transform="translate(0,626) scale(1,-1)">Confirm requirements</text>
+			<text x="239" y="287" style="font-family: Helvetica; font-size: 12px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,574) scale(1,-1)">Hard / soft / unknown</text>
+			<rect x="448" y="234" width="204" height="126" rx="3" ry="3" style="stroke: rgb(80%,82%,85%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="463" y="338" style="font-family: Helvetica; font-size: 10px;fill: rgb(15%,40%,90%); stroke:none;" transform="translate(0,676) scale(1,-1)">03 / FILTER</text>
+			<text x="463" y="313" style="font-family: Helvetica-Bold; font-size: 16px;fill: rgb(7%,10%,13%); stroke:none;" transform="translate(0,626) scale(1,-1)">Apply constraints</text>
+			<text x="463" y="287" style="font-family: Helvetica; font-size: 12px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,574) scale(1,-1)">Exclude unsuitable items</text>
+			<rect x="672" y="234" width="204" height="126" rx="3" ry="3" style="stroke: rgb(80%,82%,85%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="687" y="338" style="font-family: Helvetica; font-size: 10px;fill: rgb(15%,40%,90%); stroke:none;" transform="translate(0,676) scale(1,-1)">04 / RETRIEVE</text>
+			<text x="687" y="313" style="font-family: Helvetica-Bold; font-size: 16px;fill: rgb(7%,10%,13%); stroke:none;" transform="translate(0,626) scale(1,-1)">Rank candidates</text>
+			<text x="687" y="287" style="font-family: Helvetica; font-size: 12px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,574) scale(1,-1)">CLIP / transparent fusion</text>
+			<rect x="896" y="234" width="204" height="126" rx="3" ry="3" style="stroke: rgb(80%,82%,85%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="911" y="338" style="font-family: Helvetica; font-size: 10px;fill: rgb(15%,40%,90%); stroke:none;" transform="translate(0,676) scale(1,-1)">05 / VERIFY</text>
+			<text x="911" y="313" style="font-family: Helvetica-Bold; font-size: 16px;fill: rgb(7%,10%,13%); stroke:none;" transform="translate(0,626) scale(1,-1)">Check business facts</text>
+			<text x="911" y="287" style="font-family: Helvetica; font-size: 12px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,574) scale(1,-1)">Human confirmation</text>
+			<path d="M 204,295 L 224,295 Z" style="stroke: rgb(15%,40%,90%); stroke-linecap: butt; stroke-width: 1.3;"/>
+			<polygon points="224 295, 218.7345 292.1234, 218.7345 297.8766" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,40%,90%); fill-rule: evenodd;"/>
+			<path d="M 428,295 L 448,295 Z" style="stroke: rgb(15%,40%,90%); stroke-linecap: butt; stroke-width: 1.3;"/>
+			<polygon points="448 295, 442.7345 292.1234, 442.7345 297.8766" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,40%,90%); fill-rule: evenodd;"/>
+			<path d="M 652,295 L 672,295 Z" style="stroke: rgb(15%,40%,90%); stroke-linecap: butt; stroke-width: 1.3;"/>
+			<polygon points="672 295, 666.7345 292.1234, 666.7345 297.8766" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,40%,90%); fill-rule: evenodd;"/>
+			<path d="M 876,295 L 896,295 Z" style="stroke: rgb(15%,40%,90%); stroke-linecap: butt; stroke-width: 1.3;"/>
+			<polygon points="896 295, 890.7345 292.1234, 890.7345 297.8766" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,40%,90%); fill-rule: evenodd;"/>
+			<rect x="0" y="20" width="340" height="130" rx="3" ry="3" style="stroke: rgb(80%,82%,85%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="15" y="128" style="font-family: Helvetica; font-size: 10px;fill: rgb(15%,40%,90%); stroke:none;" transform="translate(0,256) scale(1,-1)">HARD REQUIREMENTS</text>
+			<text x="15" y="103" style="font-family: Helvetica-Bold; font-size: 16px;fill: rgb(7%,10%,13%); stroke:none;" transform="translate(0,206) scale(1,-1)">Explicit constraints</text>
+			<text x="15" y="77" style="font-family: Helvetica; font-size: 12px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,154) scale(1,-1)">A candidate must satisfy the requirement.</text>
+			<text x="15" y="60" style="font-family: Helvetica; font-size: 12px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,120) scale(1,-1)">Weight bounds are entered as fields.</text>
+			<rect x="380" y="20" width="340" height="130" rx="3" ry="3" style="stroke: rgb(80%,82%,85%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="395" y="128" style="font-family: Helvetica; font-size: 10px;fill: rgb(15%,40%,90%); stroke:none;" transform="translate(0,256) scale(1,-1)">PREFERENCES</text>
+			<text x="395" y="103" style="font-family: Helvetica-Bold; font-size: 16px;fill: rgb(7%,10%,13%); stroke:none;" transform="translate(0,206) scale(1,-1)">Ranking signals</text>
+			<text x="395" y="77" style="font-family: Helvetica; font-size: 12px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,154) scale(1,-1)">Descriptive preferences help ordering.</text>
+			<text x="395" y="60" style="font-family: Helvetica; font-size: 12px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,120) scale(1,-1)">They do not override hard constraints.</text>
+			<rect x="760" y="20" width="340" height="130" rx="3" ry="3" style="stroke: rgb(80%,82%,85%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="775" y="128" style="font-family: Helvetica; font-size: 10px;fill: rgb(15%,40%,90%); stroke:none;" transform="translate(0,256) scale(1,-1)">MISSING OR CONFLICTING</text>
+			<text x="775" y="103" style="font-family: Helvetica-Bold; font-size: 16px;fill: rgb(7%,10%,13%); stroke:none;" transform="translate(0,206) scale(1,-1)">Ask for confirmation</text>
+			<text x="775" y="77" style="font-family: Helvetica; font-size: 12px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,154) scale(1,-1)">Missing facts remain visible.</text>
+			<text x="775" y="60" style="font-family: Helvetica; font-size: 12px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,120) scale(1,-1)">A recommendation is not a quotation.</text>
+		</g>
+	</g>
+</svg>

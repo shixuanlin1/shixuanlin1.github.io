@@ -1,31 +1,41 @@
 # Shixuan Lin
 
-I work on enterprise digital products and AI-assisted workflows, with a particular interest in how people verify information, coordinate work, and retain control over consequential decisions.
+I construct enterprise operating frameworks and digital products, connecting commercial decisions, operational responsibilities, shared business facts and applied-AI workflows.
+
+My enterprise-design framework connects five layers: commercial commitments, the operating model, decision rights and rules, shared business facts, and the digital interfaces used by customers, staff and management.
 
 I hold a master's degree in Management and Systems from New York University, with a concentration in Database Technologies, and a Bachelor of Business Administration in Finance from Macau University of Science and Technology.
 
-[Personal website](https://shixuanlin.com/) · [Download portfolio](portfolio/Shixuan_Lin_Portfolio.pdf)
+[Personal website](https://shixuanlin.com/) · [Online portfolio](https://shixuanlin.com/portfolio) · [20-page portfolio PDF](portfolio/Shixuan_Lin_Portfolio.pdf)
 
 ## Selected work
 
-| Project | What I worked on | Explore |
+| Project | Business and development focus | Explore |
 | --- | --- | --- |
-| Media narrative analysis | Document ingestion, analytical workflow integration, structured outputs, and a Streamlit interface for reviewing news content | [Code and setup](https://github.com/shixuanlin1/unicc) |
-| AI safety testing framework and prototype | Governance-to-test mapping, agent test workflows, risk evidence, and a six-step review interface | [Case study](projects/ai-safety-testing.md) |
-| HHY enterprise platform and WeChat Mini Program | Business workflows, information architecture, role-aware interaction, and continuity between customer requests and staff follow-up | [Case study](projects/hhy-enterprise-and-miniapp.md) |
-| FabricChain Intelligence | Structured fabric requirements, multimodal retrieval, business-fact checks, and explicit human confirmation | [Case study](projects/fabricchain.md) |
-| Tool-using agent evaluation | Research design for authorization boundaries, confirmation behavior, and the difference between task success and safe execution | [Research notes](projects/agent-safety.md) |
-| Economic and financial research | Carbon-emissions research and questions about data quality, interest-rate forecasting, and causal interpretation | [Research overview](projects/economics.md) |
+| HHY enterprise digitalization | Operating framework, commercial rules, decision rights, shared data, management information and customer/staff products | [Enterprise case](projects/hhy-enterprise-and-miniapp.md) |
+| FabricChain Intelligence | Industrial requirements, constraint-based retrieval, business-fact verification and the net value of AI in sourcing | [Prototype case](projects/fabricchain.md) |
+| Media analysis | Document processing, NLP integration, structured outputs and professional human review | [Case study](projects/media-analysis.md) · [Public code](https://github.com/shixuanlin1/unicc) |
+| AI safety testing | Governance-to-test mapping, agent workflows, risk evidence and organizational follow-up | [Framework and prototype](projects/ai-safety-testing.md) |
+
+## How I frame enterprise digitalization
+
+I connect the commercial cycle, physical fulfillment and financial control. A quotation, an accepted order, an actual shipment and a receipt have different meanings. Product and specification identities, transaction versions, permissions and audit make those differences explicit in the system.
+
+My commercial-design work includes quantity and production constraints, the economic effect of changes after committed work, partial quotation acceptance and reliable delivery promises. I keep routine authorized work direct, while meaningful economic exceptions go to the appropriate decision-maker.
+
+I evaluate the complete service: customer completion, staff verification, repeated data entry, correction effort and exception recovery. AI-generated recommendations are assessed through product fit, checking effort and the consequences of an unreliable business promise.
+
+![Enterprise design framework](assets/portfolio-enterprise-framework.svg)
 
 ## Research and publications
 
-I am a co-author of work on harmful media narratives and the determinants of carbon emissions in Macau. See [publication details and links](publications.md).
+I am a co-author of work on harmful media narratives and the determinants of carbon emissions in Macau. See [full publication details and author lists](publications.md).
 
-My current interests connect practical system design with questions about human oversight, organizational adoption, and the evidence needed to evaluate a decision. I use AI-assisted development tools in my project work and document implementation choices and verification limits alongside the resulting artifacts.
+Related work: [tool-using agent evaluation](projects/agent-safety.md) · [economic and financial research](projects/economics.md).
 
 ## Technical areas
 
-My project work has involved Python, SQL, TypeScript, Vue, uni-app, Streamlit, Node.js/Fastify, and PostgreSQL/Prisma. The linked repositories and case studies describe the context in which I used these tools.
+My project work has involved Python, SQL, TypeScript, Vue, uni-app, Streamlit, Node.js/Fastify and PostgreSQL/Prisma. The case studies connect these tools to the business requirements, implementation decisions and original artifacts.
 
 ---
 

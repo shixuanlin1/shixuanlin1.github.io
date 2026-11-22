@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="1100" height="400" preserveAspectRatio="xMinYMin meet" viewBox="0 0 1100 400" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="1100" height="400"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-400)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="272" width="245" height="120" rx="3" ry="3" style="stroke: rgb(80%,82%,85%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="15" y="370" style="font-family: Helvetica; font-size: 10px;fill: rgb(15%,40%,90%); stroke:none;" transform="translate(0,740) scale(1,-1)">01 / CONFIGURE</text>
+			<text x="15" y="345" style="font-family: Helvetica-Bold; font-size: 16px;fill: rgb(7%,10%,13%); stroke:none;" transform="translate(0,690) scale(1,-1)">Agent and context</text>
+			<text x="15" y="319" style="font-family: Helvetica; font-size: 12px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,638) scale(1,-1)">Name / version / type</text>
+			<text x="15" y="302" style="font-family: Helvetica; font-size: 12px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,604) scale(1,-1)">Select test modules</text>
+			<rect x="285" y="272" width="245" height="120" rx="3" ry="3" style="stroke: rgb(80%,82%,85%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="300" y="370" style="font-family: Helvetica; font-size: 10px;fill: rgb(15%,40%,90%); stroke:none;" transform="translate(0,740) scale(1,-1)">02 / PREPARE</text>
+			<text x="300" y="345" style="font-family: Helvetica-Bold; font-size: 16px;fill: rgb(7%,10%,13%); stroke:none;" transform="translate(0,690) scale(1,-1)">Environment checks</text>
+			<text x="300" y="319" style="font-family: Helvetica; font-size: 12px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,638) scale(1,-1)">Validate inputs and API</text>
+			<text x="300" y="302" style="font-family: Helvetica; font-size: 12px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,604) scale(1,-1)">Load selected scenarios</text>
+			<rect x="570" y="272" width="245" height="120" rx="3" ry="3" style="stroke: rgb(80%,82%,85%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="585" y="370" style="font-family: Helvetica; font-size: 10px;fill: rgb(15%,40%,90%); stroke:none;" transform="translate(0,740) scale(1,-1)">03 / EXECUTE</text>
+			<text x="585" y="345" style="font-family: Helvetica-Bold; font-size: 16px;fill: rgb(7%,10%,13%); stroke:none;" transform="translate(0,690) scale(1,-1)">Test and score</text>
+			<text x="585" y="319" style="font-family: Helvetica; font-size: 12px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,638) scale(1,-1)">Module-level results</text>
+			<text x="585" y="302" style="font-family: Helvetica; font-size: 12px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,604) scale(1,-1)">Aggregate risk evidence</text>
+			<rect x="855" y="272" width="245" height="120" rx="3" ry="3" style="stroke: rgb(80%,82%,85%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="870" y="370" style="font-family: Helvetica; font-size: 10px;fill: rgb(15%,40%,90%); stroke:none;" transform="translate(0,740) scale(1,-1)">04 / REVIEW</text>
+			<text x="870" y="345" style="font-family: Helvetica-Bold; font-size: 16px;fill: rgb(7%,10%,13%); stroke:none;" transform="translate(0,690) scale(1,-1)">Report and follow-up</text>
+			<text x="870" y="319" style="font-family: Helvetica; font-size: 12px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,638) scale(1,-1)">Logs / risk interpretation</text>
+			<text x="870" y="302" style="font-family: Helvetica; font-size: 12px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,604) scale(1,-1)">PDF or HTML report</text>
+			<path d="M 245,335 L 285,335 Z" style="stroke: rgb(15%,40%,90%); stroke-linecap: butt; stroke-width: 1.3;"/>
+			<polygon points="285 335, 279.7345 332.1234, 279.7345 337.8766" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,40%,90%); fill-rule: evenodd;"/>
+			<path d="M 530,335 L 570,335 Z" style="stroke: rgb(15%,40%,90%); stroke-linecap: butt; stroke-width: 1.3;"/>
+			<polygon points="570 335, 564.7345 332.1234, 564.7345 337.8766" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,40%,90%); fill-rule: evenodd;"/>
+			<path d="M 815,335 L 855,335 Z" style="stroke: rgb(15%,40%,90%); stroke-linecap: butt; stroke-width: 1.3;"/>
+			<polygon points="855 335, 849.7345 332.1234, 849.7345 337.8766" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,40%,90%); fill-rule: evenodd;"/>
+			<rect x="285" y="150" width="245" height="85" rx="3" ry="3" style="stroke: rgb(80%,82%,85%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,94%,90%); fill-rule: evenodd;"/>
+			<text x="300" y="213" style="font-family: Helvetica; font-size: 10px;fill: rgb(15%,40%,90%); stroke:none;" transform="translate(0,426) scale(1,-1)">FAILURE PATH</text>
+			<text x="300" y="188" style="font-family: Helvetica-Bold; font-size: 16px;fill: rgb(7%,10%,13%); stroke:none;" transform="translate(0,376) scale(1,-1)">Stop and explain</text>
+			<text x="300" y="162" style="font-family: Helvetica; font-size: 12px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,324) scale(1,-1)">Invalid setup / API check</text>
+			<path d="M 407,272 L 407,235 Z" style="stroke: rgb(75%,36%,18%); stroke-linecap: butt; stroke-width: 1.3;"/>
+			<polygon points="407 235, 404.1234 240.2655, 409.8766 240.2655" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(75%,36%,18%); fill-rule: evenodd;"/>
+			<rect x="0" y="6" width="340" height="104" rx="3" ry="3" style="stroke: rgb(80%,82%,85%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="15" y="88" style="font-family: Helvetica; font-size: 10px;fill: rgb(15%,40%,90%); stroke:none;" transform="translate(0,176) scale(1,-1)">DOCUMENTED ACTION</text>
+			<text x="15" y="63" style="font-family: Helvetica-Bold; font-size: 16px;fill: rgb(7%,10%,13%); stroke:none;" transform="translate(0,126) scale(1,-1)">Low risk</text>
+			<text x="15" y="37" style="font-family: Helvetica; font-size: 12px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,74) scale(1,-1)">Deployment + monitoring</text>
+			<path d="M 977,272 L 977,130 Z" style="stroke: rgb(15%,40%,90%); stroke-linecap: butt; stroke-width: 1.3;"/>
+			<path d="M 977,130 L 170,130 Z" style="stroke: rgb(15%,40%,90%); stroke-linecap: butt; stroke-width: 1.3;"/>
+			<path d="M 170,130 L 170,110 Z" style="stroke: rgb(15%,40%,90%); stroke-linecap: butt; stroke-width: 1.3;"/>
+			<polygon points="170 110, 167.1234 115.2655, 172.8766 115.2655" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,40%,90%); fill-rule: evenodd;"/>
+			<rect x="380" y="6" width="340" height="104" rx="3" ry="3" style="stroke: rgb(80%,82%,85%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="395" y="88" style="font-family: Helvetica; font-size: 10px;fill: rgb(15%,40%,90%); stroke:none;" transform="translate(0,176) scale(1,-1)">DOCUMENTED ACTION</text>
+			<text x="395" y="63" style="font-family: Helvetica-Bold; font-size: 16px;fill: rgb(7%,10%,13%); stroke:none;" transform="translate(0,126) scale(1,-1)">Medium risk</text>
+			<text x="395" y="37" style="font-family: Helvetica; font-size: 12px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,74) scale(1,-1)">Optimize + retest</text>
+			<path d="M 977,272 L 977,130 Z" style="stroke: rgb(15%,40%,90%); stroke-linecap: butt; stroke-width: 1.3;"/>
+			<path d="M 977,130 L 550,130 Z" style="stroke: rgb(15%,40%,90%); stroke-linecap: butt; stroke-width: 1.3;"/>
+			<path d="M 550,130 L 550,110 Z" style="stroke: rgb(15%,40%,90%); stroke-linecap: butt; stroke-width: 1.3;"/>
+			<polygon points="550 110, 547.1234 115.2655, 552.8766 115.2655" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,40%,90%); fill-rule: evenodd;"/>
+			<rect x="760" y="6" width="340" height="104" rx="3" ry="3" style="stroke: rgb(80%,82%,85%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="775" y="88" style="font-family: Helvetica; font-size: 10px;fill: rgb(15%,40%,90%); stroke:none;" transform="translate(0,176) scale(1,-1)">DOCUMENTED ACTION</text>
+			<text x="775" y="63" style="font-family: Helvetica-Bold; font-size: 16px;fill: rgb(7%,10%,13%); stroke:none;" transform="translate(0,126) scale(1,-1)">High risk</text>
+			<text x="775" y="37" style="font-family: Helvetica; font-size: 12px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,74) scale(1,-1)">Block + remediate</text>
+			<path d="M 977,272 L 977,130 Z" style="stroke: rgb(15%,40%,90%); stroke-linecap: butt; stroke-width: 1.3;"/>
+			<path d="M 977,130 L 930,130 Z" style="stroke: rgb(15%,40%,90%); stroke-linecap: butt; stroke-width: 1.3;"/>
+			<path d="M 930,130 L 930,110 Z" style="stroke: rgb(15%,40%,90%); stroke-linecap: butt; stroke-width: 1.3;"/>
+			<polygon points="930 110, 927.1234 115.2655, 932.8766 115.2655" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(15%,40%,90%); fill-rule: evenodd;"/>
+		</g>
+	</g>
+</svg>

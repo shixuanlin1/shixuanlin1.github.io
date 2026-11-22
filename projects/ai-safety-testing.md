@@ -1,37 +1,44 @@
 # AI safety testing framework and prototype
 
-## Project context
+2025 / UNICC AI safety testing project
 
-I worked on an AI safety testing project that connects governance requirements, risk and capability assessment, automated tests, scoring and a review interface. The December 2025 project presentation documents the framework, agent workflow and prototype screens.
+## The business problem
 
-## Development work
+A safety framework becomes useful when someone can configure the evaluation, run the relevant checks and inspect the evidence behind the next action.
 
-My work covered framework design, translating risks into test modules, the testing and scoring workflow, interface development and prototype integration. The six-step interface connects agent configuration, module selection, environment setup, test execution, results and reporting.
+## My development work
 
-```mermaid
-flowchart LR
-    A[System configuration] --> B[Select test modules]
-    B --> C[Prepare the environment]
-    C --> D[Execute tests]
-    D --> E[Review evidence and scores]
-    E --> F[Report and follow-up]
-```
+I worked on framework design, the translation of governance requirements into test modules, scoring and reporting workflows, and prototype integration. The interface connects configuration, test selection, environment setup, execution, results and report review.
 
-The workflow makes invalid configuration and environment failures explicit. References to standards guide the evaluation design; a prototype score helps organize review rather than establish a formal conformity assessment.
+## Design and business decisions
 
-## Original interface record
+### Validate before execution
 
-![Agent configuration interface](../assets/safety-input.png)
+The documented pipeline checks the configuration and API, prepares the selected scenarios and terminates with an explanation if the environment check fails.
 
-![Prototype risk-results dashboard](../assets/safety-results.jpg)
+### Keep module results traceable
 
-Original interface images from the December 2025 project presentation. Displayed dashboard values belong to the historical demonstration and are not treated as benchmark results here.
+Individual test modules produce results before risk evidence is aggregated. The report retains logs, risk descriptions and follow-up recommendations.
+
+### Make follow-up explicit
+
+The prototype distinguishes monitoring, optimization and retesting, and remediation. Its historical dashboard values illustrate the interface; they are not presented as benchmark results.
+
+## System and interface
+
+![Six-step agent safety testing interface at the configuration stage](../assets/safety-input.png)
+
+Original configuration interface from the December 2025 project presentation.
+
+![Configuration, environment validation, module execution and reporting with failure and risk follow-up branches](../assets/portfolio-safety-system.svg)
+
+Evaluation flow redrawn from slides 12-13 of the original presentation. The linked resources retain their original project attributions.
 
 ## Project resources
 
-- [Framework project resource](https://github.com/Chen1212123/UNICC-AI-Safety-Testing-Framework)
-- [Agent and interface project resource](https://github.com/jennieleei/UNICC-AI-Safety-Testing-Agent)
+- [Online portfolio](https://shixuanlin.com/portfolio#safety)
+- [Full project record](https://shixuanlin.com/projects/ai-safety-testing-framework)
+- [Open the framework project resource](https://github.com/Chen1212123/UNICC-AI-Safety-Testing-Framework)
+- [20-page selected-work portfolio](../portfolio/Shixuan_Lin_Portfolio.pdf)
 
-The original resource attributions remain in the linked repositories.
-
-[Back to selected work](../README.md)
+[Back to overview](../README.md)

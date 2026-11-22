@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="1100" height="420" preserveAspectRatio="xMinYMin meet" viewBox="0 0 1100 420" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="1100" height="420"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-420)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="343" width="1100" height="69" style="stroke: rgb(80%,82%,85%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="15" y="383" style="font-family: Helvetica; font-size: 12px;fill: rgb(15%,40%,90%); stroke:none;" transform="translate(0,766) scale(1,-1)">01</text>
+			<text x="65" y="382" style="font-family: Helvetica-Bold; font-size: 17px;fill: rgb(7%,10%,13%); stroke:none;" transform="translate(0,764) scale(1,-1)">Commercial commitments</text>
+			<text x="380" y="385" style="font-family: Helvetica; font-size: 15px;fill: rgb(7%,10%,13%); stroke:none;" transform="translate(0,770) scale(1,-1)">What can the business promise?</text>
+			<text x="380" y="360" style="font-family: Helvetica; font-size: 13px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,720) scale(1,-1)">Price / specification / quantity / lead time</text>
+			<rect x="0" y="262" width="1100" height="69" style="stroke: rgb(80%,82%,85%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="15" y="302" style="font-family: Helvetica; font-size: 12px;fill: rgb(15%,40%,90%); stroke:none;" transform="translate(0,604) scale(1,-1)">02</text>
+			<text x="65" y="301" style="font-family: Helvetica-Bold; font-size: 17px;fill: rgb(7%,10%,13%); stroke:none;" transform="translate(0,602) scale(1,-1)">Operating model</text>
+			<text x="380" y="304" style="font-family: Helvetica; font-size: 15px;fill: rgb(7%,10%,13%); stroke:none;" transform="translate(0,608) scale(1,-1)">How does a request become coordinated work?</text>
+			<text x="380" y="279" style="font-family: Helvetica; font-size: 13px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,558) scale(1,-1)">Customer / sales / production / warehouse / finance</text>
+			<rect x="0" y="181" width="1100" height="69" style="stroke: rgb(80%,82%,85%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="15" y="221" style="font-family: Helvetica; font-size: 12px;fill: rgb(15%,40%,90%); stroke:none;" transform="translate(0,442) scale(1,-1)">03</text>
+			<text x="65" y="220" style="font-family: Helvetica-Bold; font-size: 17px;fill: rgb(7%,10%,13%); stroke:none;" transform="translate(0,440) scale(1,-1)">Decision rights and rules</text>
+			<text x="380" y="223" style="font-family: Helvetica; font-size: 15px;fill: rgb(7%,10%,13%); stroke:none;" transform="translate(0,446) scale(1,-1)">Who may decide, execute or approve an exception?</text>
+			<text x="380" y="198" style="font-family: Helvetica; font-size: 13px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,396) scale(1,-1)">Approved terms / actual capability / explicit authority</text>
+			<rect x="0" y="100" width="1100" height="69" style="stroke: rgb(80%,82%,85%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="15" y="140" style="font-family: Helvetica; font-size: 12px;fill: rgb(15%,40%,90%); stroke:none;" transform="translate(0,280) scale(1,-1)">04</text>
+			<text x="65" y="139" style="font-family: Helvetica-Bold; font-size: 17px;fill: rgb(7%,10%,13%); stroke:none;" transform="translate(0,278) scale(1,-1)">Shared business facts</text>
+			<text x="380" y="142" style="font-family: Helvetica; font-size: 15px;fill: rgb(7%,10%,13%); stroke:none;" transform="translate(0,284) scale(1,-1)">Which identity, version and event are authoritative?</text>
+			<text x="380" y="117" style="font-family: Helvetica; font-size: 13px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,234) scale(1,-1)">Product / specification / order / batch / shipment</text>
+			<rect x="0" y="19" width="1100" height="69" style="stroke: rgb(80%,82%,85%); stroke-linecap: butt; stroke-width: 0.8; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="15" y="59" style="font-family: Helvetica; font-size: 12px;fill: rgb(15%,40%,90%); stroke:none;" transform="translate(0,118) scale(1,-1)">05</text>
+			<text x="65" y="58" style="font-family: Helvetica-Bold; font-size: 17px;fill: rgb(7%,10%,13%); stroke:none;" transform="translate(0,116) scale(1,-1)">Digital products</text>
+			<text x="380" y="61" style="font-family: Helvetica; font-size: 15px;fill: rgb(7%,10%,13%); stroke:none;" transform="translate(0,122) scale(1,-1)">How does each role act on the same facts?</text>
+			<text x="380" y="36" style="font-family: Helvetica; font-size: 13px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,72) scale(1,-1)">Customer Mini Program / staff workbench / management</text>
+		</g>
+	</g>
+</svg>

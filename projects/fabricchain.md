@@ -1,42 +1,44 @@
 # FabricChain Intelligence
 
-## From a fabric request to a reviewable recommendation
+2026 / FabricChain Intelligence prototype
 
-Customers describe fabrics through a mixture of text, reference images, technical requirements, and business constraints. I worked on a prototype that turns those inputs into structured requirements, retrieves candidates, and presents information that a person can check before making a business commitment.
+## The business problem
 
-My work covered prototype architecture, requirement representation, workflow integration, and interfaces for inspecting candidate evidence. AI-assisted implementation supported this development process.
+I designed the prototype around a commercial question: where can AI reduce sourcing effort while preserving specification fit and reliable customer commitments?
 
-## Workflow
+## My development work
 
-```mermaid
-flowchart LR
-    A[Text or reference image] --> B[Structured requirements]
-    B --> C[Candidate retrieval and ranking]
-    C --> D[Check product and business facts]
-    D --> E{Conflict or uncertainty?}
-    E -->|Yes| F[Clarify or request confirmation]
-    E -->|No| G[Present a reviewable recommendation]
-    F --> B
-```
+The prototype combines requirement representation, retrieval, candidate evidence and human confirmation. I consider relevance alongside constraint violations, verification work and the consequences of an incorrect price, stock or delivery promise.
 
-## Engineering choices
+## Design and business decisions
 
-I kept hard constraints distinct from model-generated descriptions. A model may help interpret a request or explain a candidate, while stock, pricing, and other business facts need an identified source and an appropriate confirmation path.
+### Separate requirements from preferences
 
-The historical implementation includes deterministic structured-field parsing and a local CLIP-based text/image retrieval path. In the inspected engineering version, candidate reranking uses dual-encoder representations and transparent fusion rather than a cross-encoder. I describe these components separately so that an architectural diagram does not imply capabilities the inspected implementation does not contain.
+Hard constraints determine whether a candidate is eligible. Descriptive preferences can influence ranking, while missing information stays visible for clarification.
 
-## Evidence and limits
+### Make ranking understandable
 
-![Historical FabricChain requirement workbench using synthetic demonstration data](../assets/fabric-workbench.png)
+The inspected version uses CLIP representations and transparent fusion. Historical extraction failures motivated explicit validation around structured requirements.
 
-Historical prototype screenshot from July 2026. It presents structured requirements and explicit uncertainty using synthetic demonstration data. Reference-image input was not enabled on this particular screen.
+### Check the business consequence
 
-Local project records document real model execution on synthetic engineering fixtures. Other historical stress-test records describe failures of model-based requirement extraction under hard constraints; that finding motivated keeping structured decisions behind explicit validation.
+Product facts, inventory, pricing and fulfillment conditions require an identified source and human confirmation. The workbench and engineering examples use synthetic demonstration data.
 
-These are prototype and engineering observations. They do not establish commercial effectiveness, production readiness, or a general improvement in recommendation quality. A stronger evaluation would require an authorized dataset, expert judgments, comparable baselines, and a clean source revision tied to the reported run.
+## System and interface
 
-## Next evaluation
+![FabricChain workbench separating fabric requirements, preferences and unknown fields](../assets/fabric-workbench.png)
 
-I want to compare candidate relevance with constraint violations, clarification effort, and the cost of incorrect recommendations. This connects model selection to the operational decision that the person reviewing the result must make.
+Historical workbench, July 2026. Synthetic demonstration data; reference-image input was not enabled on this screen.
 
-[Back to profile](../README.md)
+![Capture a fabric request, confirm requirements, filter hard constraints, rank with CLIP, and verify business facts](../assets/portfolio-fabric-system.svg)
+
+Retrieval and confirmation flow redrawn from historical prototype records.
+
+## Project resources
+
+- [Online portfolio](https://shixuanlin.com/portfolio#fabric)
+- [Full project record](https://shixuanlin.com/projects/fabricchain-intelligence)
+- [Read the prototype record](https://github.com/shixuanlin1/shixuanlin1.github.io/blob/master/projects/fabricchain.md)
+- [20-page selected-work portfolio](../portfolio/Shixuan_Lin_Portfolio.pdf)
+
+[Back to overview](../README.md)
