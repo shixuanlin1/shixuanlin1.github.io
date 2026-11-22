@@ -1,31 +1,31 @@
-A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+# Shixuan Lin
 
-I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
+I work on enterprise digital products and AI-assisted workflows, with a particular interest in how people verify information, coordinate work, and retain control over consequential decisions.
 
-### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
+I hold a master's degree in Management and Systems from New York University, with a concentration in Database Technologies, and a Bachelor of Business Administration in Finance from Macau University of Science and Technology.
 
-# Instructions
+[Personal website](https://shixuanlin.com/) · [Download portfolio](portfolio/Shixuan_Lin_Portfolio.pdf)
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+## Selected work
 
-See more info at https://academicpages.github.io/
+| Project | What I worked on | Explore |
+| --- | --- | --- |
+| Media narrative analysis | Document ingestion, analytical workflow integration, structured outputs, and a Streamlit interface for reviewing news content | [Code and setup](https://github.com/shixuanlin1/unicc) |
+| HHY enterprise platform and WeChat Mini Program | Business workflows, information architecture, role-aware interaction, and continuity between customer requests and staff follow-up | [Case study](projects/hhy-enterprise-and-miniapp.md) |
+| FabricChain Intelligence | Structured fabric requirements, multimodal retrieval, business-fact checks, and explicit human confirmation | [Case study](projects/fabricchain.md) |
+| Tool-using agent evaluation | Research design for authorization boundaries, confirmation behavior, and the difference between task success and safe execution | [Research notes](projects/agent-safety.md) |
+| Economic and financial research | Carbon-emissions research and questions about data quality, interest-rate forecasting, and causal interpretation | [Research overview](projects/economics.md) |
 
-## To run locally (not on GitHub Pages, to serve on your own computer)
+## Research and publications
 
-1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+I am a co-author of work on harmful media narratives and the determinants of carbon emissions in Macau. See [publication details and links](publications.md).
 
-# Changelog -- bugfixes and enhancements
+My current interests connect practical system design with questions about human oversight, organizational adoption, and the evidence needed to evaluate a decision. I use AI-assisted development tools in my project work and document implementation choices and verification limits alongside the resulting artifacts.
 
-There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
+## Technical areas
 
-To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
+My project work has involved Python, SQL, TypeScript, Vue, uni-app, Streamlit, Node.js/Fastify, and PostgreSQL/Prisma. The linked repositories and case studies describe the context in which I used these tools.
+
+---
+
+[GitHub repositories](https://github.com/shixuanlin1?tab=repositories)
